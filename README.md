@@ -5,4 +5,4 @@
 }</code></pre>
 
 **IMG**
-<img src = "/path/to/img.jpg" alt = "noimg"></img>
+<img src = "/img.jpg" alt = "noimg"></img>
